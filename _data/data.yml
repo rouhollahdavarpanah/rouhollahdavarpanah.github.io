@@ -51,10 +51,10 @@ sidebar:
         - item: Reading 
           link:
 
-career-profile:
-    title: Career Profile
+profile:
+    title: Profile
     summary: |
-      This is my personal webgage. I am a water resources engineer
+      This is my personal webpage. I am a water resources engineer
 education:
     title: Education
     info:
