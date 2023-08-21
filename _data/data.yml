@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -19,7 +19,7 @@ sidebar:
     citizenship: Iranian
     website: rouhollahdavarpanah.github.io #do not add http://
     linkedIn: <a href="https://www.linkedin.com/in/rouhollah-davarpanah/" target="_blank" rel="nofollow">LinkeIn Profile</a>
-    researchGate: 
+    researchGate: www.researchgate.net/profile/Rouhollah-Davarpanah-2
     google Scholar: 
     Skype: # add your nickname without '@' sign
     gitlab:
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1gmiZA_LqSFeIW47EePyfAP5QACsYraHF/view?usp=sharing
 
     languages:
       title: Languages
