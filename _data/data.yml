@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Rouhollah Davarpanah
-    tagline: Environmental Reserchcer 
+    tagline: Environmental Researcher 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,7 +18,7 @@ sidebar:
     timezone: IRST Timezone (GMT+3:30)
     citizenship: Iranian
     website: rouhollahdavarpanah.github.io #do not add http://
-    linkedIn: <a href="https://www.linkedin.com/in/rouhollahdavarpanah"> LinkedIn Profile</a></p>
+    linkedIn: "LinkedIn Profile: https://www.linkedin.com/in/rouhollah-davarpanah/"
     researchGate: 
     google Scholar: 
     Skype: # add your nickname without '@' sign
