@@ -235,23 +235,28 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
+      - name: R
+        level: 70%
+
+      - name: Google Earth Engine
+        level: 70%
+
+      - name: SWAT
+        level: 95%
+
+      - name: WEAP
+        level: 95%
+
+      - name: HecRas
+        level: 80%
+
+      - name: HecHms
+        level: 80%
+
+        - name: Microsoft excel
+        level: 90%
 footer: >
     Designed with <i class="fas fa-heart"></i> by Rouhollah Davarpanah
