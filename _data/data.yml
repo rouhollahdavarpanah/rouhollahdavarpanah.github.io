@@ -253,10 +253,5 @@ skills:
       - name: HecRas
         level: 80%
 
-      - name: HecHms
-        level: 80%
-
-        - name: Microsoft excel
-        level: 90%
 footer: >
     Designed with <i class="fas fa-heart"></i> by Rouhollah Davarpanah
