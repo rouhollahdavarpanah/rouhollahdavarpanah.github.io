@@ -18,7 +18,7 @@ sidebar:
     timezone: IRST Timezone (GMT+3:30)
     citizenship: Iranian
     website: rouhollahdavarpanah.github.io #do not add http://
-    linkedIn: "LinkedIn Profile: https://www.linkedin.com/in/rouhollah-davarpanah/"
+    linkedIn: <a href="https://www.linkedin.com/in/rouhollah-davarpanah/" target="_blank" rel="nofollow">LinkeIn Profile</a>
     researchGate: 
     google Scholar: 
     Skype: # add your nickname without '@' sign
@@ -33,25 +33,22 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Persian
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Content Making
           link:
 
-        - item: Snowboarding
+        - item: Teaching
           link:
 
-        - item: Cooking
+        - item: Reading and watching movies
           link:
 
 career-profile:
