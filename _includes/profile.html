@@ -1,5 +1,5 @@
 {% assign profile = site.data.data.profile %}
-{% if summary %}
+{% if profile %}
 <section class="section summary-section">
 
   <h2 class="section-title">
@@ -7,7 +7,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-user fa-stack-1x fa-inverse"></i>
     </span>
-    {{ summary.title }}
+    {{ profile.title }}
   </h2>
 
   <div class="summary">
