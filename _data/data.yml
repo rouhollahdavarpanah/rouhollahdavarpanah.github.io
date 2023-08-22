@@ -211,30 +211,6 @@ projects:
         link: "#"
         tagline: "Calibration and application of the IHACRES model for assessing the impact of climate change on the water availability of the Hamoon Jazmourian Basin."
 
-        - title: Hydrogeology
-        link: "#"
-        tagline: "Assessing the impact of climate and land cover change on Gharesu Basin hydrological regime using SWAT model under CMIP6 scenarios."
-
-        - title: Hydrology
-        link: "#"
-        tagline: "Optimization of water allocation in a multistakeholder basin  (Karkheh) under climate change using WEAP model."
-
-        - title: Hydrology
-        link: "#"
-        tagline: "Extraction of Intensity-Duration-Frequency (IDF) Curves under Climate Change in the Qom-roud basin."
-
-        - title: Urban Water Management
-        link: "#"
-        tagline: "Stormwater management of an urban area using SWMM model for recognizing the best management practices."
-
-        - title: Hydraulics
-        link: "#"
-        tagline: "Flood vulnerability mapping of the DEZ river using HecRas and ArcGIS."
-
-        - title: Remote Sensing
-        link: "#"
-        tagline: "•	Crop mapping of the South-Karkheh Subbasin Using R and machine learning methods."
-
 oss:
     title: OSS Contributions
     intro: >
