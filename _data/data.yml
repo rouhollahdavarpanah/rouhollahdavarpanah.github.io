@@ -189,29 +189,27 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the major projects I have done are listed in this section.
     assignments:
-      - title: Velocity
+      - title: Hydraulics
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "M.Sc. Thesis - Investigating the application of approximate method of Artificial Neural Networks for modeling the water productivity in irrigation networks using hydrodynamic models."
 
-      - title: DevStudio
+      - title: Hydrology
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Rainfall-runoff simulation of the Karkheh River Basin using Artificial Neural Networks."
 
-      - title: Tempo
+      - title: Hydrology
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Climatology
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Comparing the capability of Lars-WG and cmhyd model for future climate data projection."
 
-      - title: Delta
+      - title: Hydrology
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Calibration and application of the IHACRES model for assessing the impact of climate change on the water availability of the Hamoon Jazmourian Basin."
 
 oss:
     title: OSS Contributions
