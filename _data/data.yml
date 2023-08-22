@@ -146,13 +146,13 @@ certifications:
           credentialurl: coursera.org/verify/U3V6MW7PBRFZ 
           credentialname: Coursera
           details: |
-        - name: water
+        - name: Water Productivity in Practice
           start: 2023
           end: 2023
-          organization: Coursera
-          credentialid: 47db22a3c36d4371b4cf1930b799bf23
-          credentialurl: coursera.org/verify/U3V6MW7PBRFZ 
-          credentialname: Coursera
+          organization: IHE Delft
+          credentialid: 
+          credentialurl:  
+          credentialname: IHE Delft
           details: |
           
 projects:
