@@ -112,30 +112,23 @@ certifications:
       title: Certifications
       list:
         - name: Water resources management and policy
-          start: 
+          start: 2021
           end: 2021
           organization: Coursera
           credentialid: MX3B927JT2Z7
           credentialurl: coursera.org/verify/MX3B927JT2Z7
-          credentialname: 
+          credentialname: Coursera
           details: |
             
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
+        - name: Data Analysis with R Programming
+          start: 2023
+          end: 2023
+          organization: Google
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: coursera.org/verify/PQR4UZKCAQ8G 
+          credentialname: Coursera
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            
 
 projects:
     title: Projects
