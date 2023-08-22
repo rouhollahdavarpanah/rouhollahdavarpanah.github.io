@@ -61,9 +61,9 @@ profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: M.Sc. in Water Science and Engineering – Water and Hydraulic Structures
+        university: Tarbiat Modares University
+        time: Sept. 2014 – Sept. 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,9 +72,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: B.Sc. in Water Science and Engineering – Irrigation and Drainage
+        university: Jahrom University
+        time: Sept. 2010 - Sept. 2014
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
