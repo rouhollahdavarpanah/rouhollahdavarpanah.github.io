@@ -138,32 +138,6 @@ certifications:
           credentialname: Cap-Net
           details: |
 
-        - name: Integrated Drought Management, Monitoring and Early Warning
-          start: 2023
-          end: 2023
-          organization: Cap-Net
-          credentialid: 47db22a3c36d4371b4cf1930b799bf23
-          credentialurl:  
-          credentialname: Cap-Net
-          details: |
-
-          - name: Integrated Drought Management, Monitoring and Early Warning
-          start: 2023
-          end: 2023
-          organization: Cap-Net
-          credentialid: 47db22a3c36d4371b4cf1930b799bf23
-          credentialurl:  
-          credentialname: Cap-Net
-          details: |
-
-          - name: Integrated Drought Management, Monitoring and Early Warning
-          start: 2023
-          end: 2023
-          organization: Cap-Net
-          credentialid: 47db22a3c36d4371b4cf1930b799bf23
-          credentialurl:  
-          credentialname: Cap-Net
-          details: |
 projects:
     title: Projects
     intro: >
