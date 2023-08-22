@@ -13,10 +13,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 
-    davarpanah.rouhollah@gmail.com; rouhollah.davarpanah@modares.ac.ir
-    phone: 
-    +989179136613; +987137345680
+    email: davarpanah.rouhollah@gmail.com; rouhollah.davarpanah@modares.ac.ir
+    phone: +989179136613; +987137345680
     timezone: IRST Timezone (GMT+3:30)
     citizenship: Iranian
     website: rouhollahdavarpanah.github.io #do not add http://
