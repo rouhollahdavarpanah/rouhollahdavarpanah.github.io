@@ -146,51 +146,6 @@ certifications:
           credentialurl: coursera.org/verify/U3V6MW7PBRFZ 
           credentialname: Coursera
           details: |
-                    
-       - name: SDG 6.5.1 IWRM Action Planning
-          start: 2022
-          end: 2022
-          organization: Cap-Net
-          credentialid: 
-          credentialurl:  
-          credentialname: Cap-Net
-          details: |
-                              
-      - name: Water Productivity in Practice
-          start: 2023
-          end: 2023
-          organization: IHE Delft
-          credentialid: 
-          credentialurl: 
-          credentialname: IHE Delft
-          details: |
-                    
-      - name: Assessing the Environmental Flow Requirement for SDG Indicator 6.4.2
-          start: 2023
-          end: 2023
-          organization: IHE Delft
-          credentialid: 
-          credentialurl: 
-          credentialname: IHE Delft
-          details: | 
-                     
-      - name: AGRICULTURE, ECONOMICS AND NATURE
-          start: 2022
-          end: 2022
-          organization: Future Learn
-          credentialid: 
-          credentialurl: 
-          credentialname: Future Learn
-          details: | 
-                      
-      - name: Structuring your article correctly
-          start: 2022
-          end: 2022
-          organization: Elsevier
-          credentialid: 
-          credentialurl: 
-          credentialname: Elsevier
-          details: | 
                               
 projects:
     title: Projects
