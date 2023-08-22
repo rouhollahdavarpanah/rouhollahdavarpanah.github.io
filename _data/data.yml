@@ -65,65 +65,41 @@ education:
         university: Tarbiat Modares University
         time: Sept. 2014 – Sept. 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          master description.
             - Bullet point
             - Bullet point
       - degree: B.Sc. in Water Science and Engineering – Irrigation and Drainage
         university: Jahrom University
         time: Sept. 2010 - Sept. 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Bachelor description.
             - Bullet point
             - Bullet point
             
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Sustainable Development Consultant and Financial Inspector (Part-Time)
+        time: June. 2022 – Now
+        company: Cooperative Company of the Kimia Garden Town, Shiraz, Iran
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          
+            - Sustainalility action plan
+            - Stakeholder conflict management
+      - role: Hydrologist, Gis Specialist, Water and soil analyst (Part-Time)
         time: 2014 - 2015
-        company: Google, London
+        company: Arazist Parsian Mehr Consulting Engineers, Shiraz, Iran
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          
+            - Gis application in hydrology and decision making
+            - Hydrological report writing
+      - role: Research Assistant (Part-Time) 
         time: 2012 - 2014
-        company: Amazon, London
+        company: Drought Research Center, Shiraz University, Shiraz, Iran
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
+            - Water-Energy-Food Nexus
+            - Application of RS in water, soil and crop sciences
             
 certifications:
       title: Certifications
