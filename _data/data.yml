@@ -154,7 +154,38 @@ certifications:
           credentialurl:  
           credentialname: IHE Delft
           details: |
-          
+        - name: SDG 6.5.1 IWRM Action Planning
+          start: 2022
+          end: 2022
+          organization: Cap-Net
+          credentialid: 
+          credentialurl:  96a2ad14ee7c47e58d41be728061aa8e 
+          credentialname: Cap-Net
+          details: |
+        - name: Assessing the Environmental Flow Requirement for SDG Indicator 6.4.2
+          start: 2023
+          end: 2023
+          organization: IHE Delft
+          credentialid:  
+          credentialurl:  
+          credentialname: IHE Delft
+          details: |
+        - name: Agriculture, Economics and Nature 
+          start: 2022
+          end: 2022
+          organization: Future Learn
+          credentialid:  
+          credentialurl:  
+          credentialname: Future Learn
+          details: |
+        - name: Structuring your article correctly
+          start: 2022
+          end: 2022
+          organization: Elsevier
+          credentialid:  
+          credentialurl:  
+          credentialname: Elsevier
+          details: |
 projects:
     title: Projects
     intro: >
