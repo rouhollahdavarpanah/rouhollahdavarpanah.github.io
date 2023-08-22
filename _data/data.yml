@@ -21,9 +21,9 @@ sidebar:
     citizenship: Iranian
     website: rouhollahdavarpanah.github.io #do not add http://
     linkedin: rouhollah-davarpanah
-    #xing: www.researchgate.net/profile/Rouhollah-Davarpanah-2
-    #github:
-    #telegram: # add your nickname without '@' sign
+    xing: www.researchgate.net/profile/Rouhollah-Davarpanah-2
+    github:
+    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
@@ -59,6 +59,7 @@ profile:
       I am a master's degree graduate from Tarbiat Modares University in water science and engineering. 
       Currently, I am improving my resume to find a Ph.D. position, which will enable me to pursue my research path. 
       My passion lies in water resources engineering, and I am eager to delve into various areas, including water resources planning & management, environmental engineering, irrigation and drainage engineering, hydraulic structures, hydrological and meteorological modeling, agricultural water management, watershed modeling, climate change impact assessment, remote sensing of the environment, crop production modeling (food security), and the Water-Energy-Food Nexus approach.
+
 education:
     title: Education
     info:
