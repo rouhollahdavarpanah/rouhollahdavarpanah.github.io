@@ -138,6 +138,15 @@ certifications:
           credentialname: Cap-Net
           details: |
 
+        - name: Sustainable Urban Water Systems
+          start: 2023
+          end: 2023
+          organization: Coursera
+          credentialid: 47db22a3c36d4371b4cf1930b799bf23
+          credentialurl: ht t ps://coursera.org /verif y/U 3V6M W 7PBRFZ 
+          credentialname: Coursera
+          details: |
+
 projects:
     title: Projects
     intro: >
