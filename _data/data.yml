@@ -128,7 +128,15 @@ certifications:
           credentialurl: coursera.org/verify/PQR4UZKCAQ8G 
           credentialname: Coursera
           details: |
-            
+
+        - name: Data Analysis with R Programming
+          start: 2023
+          end: 2023
+          organization: Google
+          credentialid: 111-222
+          credentialurl: coursera.org/verify/PQR4UZKCAQ8G 
+          credentialname: Coursera
+          details: |
 
 projects:
     title: Projects
