@@ -14,11 +14,9 @@ sidebar:
 
     # Sidebar links
     email: 
-    davarpanah.rouhollah@gmail.com; 
-    rouhollah.davarpanah@modares.ac.ir
+    davarpanah.rouhollah@gmail.com; rouhollah.davarpanah@modares.ac.ir
     phone: 
-    +989179136613; 
-    +987137345680
+    +989179136613; +987137345680
     timezone: IRST Timezone (GMT+3:30)
     citizenship: Iranian
     website: rouhollahdavarpanah.github.io #do not add http://
@@ -69,15 +67,13 @@ education:
         time: Sept. 2014 – Sept. 2018
         details: |
           This is the description of the master details.
-            - Bullet point
-            - Bullet point
+            - Deep Learning
+            - Water Productivity
       - degree: B.Sc. in Water Science and Engineering – Irrigation and Drainage 
         university: Jahrom University
         time: Sept. 2010 - Sept. 2014
         details: |
-          This is the description of the bachelor details.
-            - Bullet point
-            - Bullet point
+         This is the description of the bachelor details.
 
 experiences:
     title: Experiences
@@ -87,8 +83,8 @@ experiences:
         company: Cooperative Company of the Kimia Garden Town, Shiraz, Iran
         details: |
           Describe .
-            - Bullet point
-            - Bullet point
+            - Stakeholder conflict management
+            - Sustainability implication and assessment
       - role: Hydrologist, Gis Specialist, Water and soil analyst 
         time: Sep. 2022 – Now
         company: •	Arazist Parsian Mehr Consulting Engineers, Shiraz, Iran
