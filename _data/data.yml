@@ -233,7 +233,7 @@ projects:
 
       - title: Remote Sensing
         link: "#"
-        tagline: "•	Crop mapping of the South-Karkheh Subbasin Using R and machine learning methods."
+        tagline: "Crop mapping of the South-Karkheh Subbasin Using R and machine learning methods."
 
 oss:
     title: OSS Contributions
