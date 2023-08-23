@@ -243,7 +243,7 @@ projects:
         link: "#"
         tagline: "Extraction of Intensity-Duration-Frequency (IDF) Curves under Climate Change in the Qom-roud basin."
 
-      - title: Urban Water Management
+      - title: Urban Stormwater Management
         link: "#"
         tagline: "Stormwater management of an urban area using SWMM model for recognizing the best management practices."
 
@@ -271,6 +271,10 @@ oss:
       - title: Academic Award
         link: "#"
         tagline: "Rank 9 in the national M.Sc. Entrance Exam (Full tuition fee scholarship). (2014)"
+        
+      - title: Executive Management Honor
+        link: "#"
+        tagline: "•	The winner of the election (of the board of directors) of the Kimia Garden Town, Iran. (2022)"
 
 skills:
     title: Skills &amp; Proficiency
