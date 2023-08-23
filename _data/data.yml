@@ -284,7 +284,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 60%
+        level: 70%
 
       - name: R
         level: 70%
@@ -293,13 +293,13 @@ skills:
         level: 70%
 
       - name: SWAT
-        level: 95%
+        level: 100%
 
       - name: WEAP
-        level: 95%
+        level: 100%
 
       - name: HecRas
         level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by Rouhollah Davarpanah
+    Provided with <i class="fas fa-heart"></i> by Rouhollah Davarpanah
