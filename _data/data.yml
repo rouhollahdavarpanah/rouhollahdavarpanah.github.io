@@ -116,10 +116,10 @@ publications:
     intro: |
       
     papers:
-      - title: The Art of Computer Programming
+      - title: Modeling the effects of irrigation management scenarios on winter wheat yield and water use indicators in response to climate variations and water delivery systems
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Davarpanah, R., & Ahmadi, S. H. (2021)
+        conference: Journal of Hydrology, 598, 126269. (https://doi.org/10.1016/j.jhydrol.2021.126269)
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
