@@ -284,10 +284,10 @@ skills:
 
     toolset:
       - name: Python
-        level: 70%
+        level: 80%
 
       - name: R
-        level: 70%
+        level: 80%
 
       - name: Google Earth Engine
         level: 70%
@@ -299,7 +299,16 @@ skills:
         level: 100%
 
       - name: HecRas
+        level: 90%
+        
+      - name: HecHms
         level: 80%
+        
+      - name: ArcGIS
+        level: 90%
+        
+      - name: SWMM
+        level: 90%
 
 footer: >
     Provided with <i class="fas fa-heart"></i> by Rouhollah Davarpanah
