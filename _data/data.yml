@@ -258,21 +258,19 @@ projects:
 oss:
     title: Honors and awards
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
-      - title: Tempo
+      - title: Academic Award
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Being among the top 5 percent of the national B.Sc. entrance exam (Full tuition fee scholarship). (2010)"
 
-      - title: Atom
+      - title: interdisciplinary Honor
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Design and construction of the largest sundial in Iran at the Jahrom University. (2013)"
 
-      - title: Delta
+      - title: Academic Award
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Rank 9 in the national M.Sc. Entrance Exam (Full tuition fee scholarship). (2014)"
 
 skills:
     title: Skills &amp; Proficiency
