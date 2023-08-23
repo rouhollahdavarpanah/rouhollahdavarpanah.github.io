@@ -50,7 +50,10 @@ sidebar:
 
         - item: Reading 
           link:
-
+          
+        - item: Mountain Climbing 
+          link:
+          
 profile:
     title: Profile
     summary: |
