@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1gmiZA_LqSFeIW47EePyfAP5QACsYraHF/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1ORziH0IvfUbwQI9wGR_3Ts9hzFlFqG5U/view?usp=drive_link
 
     languages:
       title: Languages
@@ -63,23 +63,23 @@ profile:
 education:
     title: Education
     info:
-      - degree: M.Sc. in Water Science and Engineering – Water and Hydraulic Structures
+      - degree: M.Sc. in Water Engineering and Management – Water and Hydraulic Structures
         university: Tarbiat Modares University
-        time: Sept. 2014 – Sept. 2018
+        time: Sept. 2014 – May. 2018
         details: |
           master description.
             - Bullet point
             - Bullet point
       - degree: B.Sc. in Water Science and Engineering – Irrigation and Drainage
         university: Jahrom University
-        time: Sept. 2010 - Sept. 2014
+        time: Sept. 2010 - July. 2014
         details: |
           Bachelor description.
             - Bullet point
             - Bullet point
             
 experiences:
-    title: Experiences
+    title: Work Experiences
     info:
       - role: Sustainability Consultant and Financial Inspector (Part-Time)
         time: June. 2022 – Now
