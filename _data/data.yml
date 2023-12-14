@@ -66,14 +66,14 @@ education:
       - degree: M.Sc. in Water Engineering and Management – Water and Hydraulic Structures
         university: Tarbiat Modares University
         time: Sept. 2014 – May. 2018
-        details: |
+        details: | During my master’s program, I learned numerical modeling and how to calibrate, validate, and utilize hydrological and hydraulic models including SWAT, WEAP, HecRas, and SWMM. In my thesis project, I simulated and optimized the operation of a complex irrigation network using a hydrodynamic model (ICSS) in a semi-arid area experiencing water bankruptcy. I assessed different hydraulic operation methods for optimizing water delivery in irrigation networks, and utilized machine learning algorithms for crop yield prediction. 
           master description.
-            - Bullet point
+            - Bullet point 
             - Bullet point
       - degree: B.Sc. in Water Science and Engineering – Irrigation and Drainage
         university: Jahrom University
         time: Sept. 2010 - July. 2014
-        details: |
+        details: | Through my undergraduate studies, I completed several courses in agriculture and water resources management and actively participated in volunteer activities at Jahrom University as the secretary of the water scientific association. In addition, I have served as the chief editor of a monthly scientific magazine for two years, where we would graphically report the most recent scientific achievements and technologies in water engineering and management. In the last year, under the guidance of our faculty members, I took the Iran M.Sc. degree entrance exam and achieved the 9th rank among over 5,000 candidates. Thus, I opted to pursue my studies at Tarbiat Modares University, known for its exceptional water engineering and management department in Iran.
           Bachelor description.
             - Bullet point
             - Bullet point
@@ -88,12 +88,12 @@ experiences:
           
             - Sustainalility action plan
             - Stakeholder conflict management
-      - role: Hydrologist, Gis Specialist, Water and Soil Analyst (Part-Time)
+      - role: Hydrologist, GIS specialist, Water and Soil Analyst (Part-Time)
         time: Sep. 2022 – Now
         company: Arazist Parsian Mehr Consulting Engineers, Shiraz, Iran
         details: |
           
-            - Gis application in hydrology and decision making
+            - Gis application in hydrology and decision-making
             - Hydrological report writing
       - role: Research Assistant (Part-Time) 
         time: Feb. 2019 – Now
