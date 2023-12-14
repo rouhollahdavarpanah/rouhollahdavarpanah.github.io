@@ -283,13 +283,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 80%
+        level: 70%
 
       - name: R
-        level: 80%
+        level: 60%
 
       - name: Google Earth Engine
-        level: 70%
+        level: 50%
 
       - name: SWAT
         level: 100%
@@ -298,16 +298,25 @@ skills:
         level: 100%
 
       - name: HecRas
-        level: 90%
+        level: 80%
         
       - name: HecHms
         level: 80%
         
       - name: ArcGIS
-        level: 90%
+        level: 70%
         
       - name: SWMM
-        level: 90%
+        level: 80%
+
+      - name: Aquacrop
+        level: 100%
+
+      - name: MODFLOW
+        level: 60%
+
+      - name: English Language
+        level: 70%
 
 footer: >
     Provided with <i class="fas fa-heart"></i> by Rouhollah Davarpanah
