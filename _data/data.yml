@@ -163,6 +163,33 @@ certifications:
           credentialname: Coursera
           details: |
 
+        - name: Python Programming in Meteorology
+          start: 2023
+          end: 2023
+          organization: Iranian National Geophysical Society
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+
+        - name: Machine Learning Methods in Python
+          start: 2023
+          end: 2023
+          organization: Iranian National Geophysical Society
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+          
+        - name: Water Engineering and Environment – Dam Engineering
+          start: 2023
+          end: 2023
+          organization: Iran Ministry of Energy
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+          
         - name: Integrated Drought Management, Monitoring and Early Warning
           start: 2023
           end: 2023
