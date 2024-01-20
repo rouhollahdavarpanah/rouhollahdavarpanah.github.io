@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Rouhollah Davarpanah
-    tagline: Environmental Researcher 
+    tagline: Hydrological and Environmental Researcher 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1ORziH0IvfUbwQI9wGR_3Ts9hzFlFqG5U/view?usp=drive_link
+    pdf: https://drive.google.com/file/d/1mt-43J5JvXJX70qqcLWwK5xADAyFxdm6/view?usp=drive_link
 
     languages:
       title: Languages
@@ -90,13 +90,16 @@ experiences:
         company: Cooperative Company of the Kimia Garden Town, Shiraz, Iran
         details: |
           
+            - Water supply and demand management
             - Sustainalility action plan
-            - Stakeholder conflict management
+            - Stakeholders' conflict resolution
       - role: Hydrologist, GIS specialist, Water and Soil Analyst (Part-Time)
         time: Sep. 2022 – Now
         company: Arazist Parsian Mehr Consulting Engineers, Shiraz, Iran
         details: |
           
+            - Hydrological and hydraulic modeling
+            - Urban stormwater management
             - Gis application in hydrology and decision-making
             - Hydrological report writing
       - role: Research Assistant (Part-Time) 
@@ -104,15 +107,20 @@ experiences:
         company: Drought Research Center, Shiraz University, Shiraz, Iran
         details: |
           
-            - Water-Energy-Food Nexus
-            - Application of RS in water, soil and crop sciences
+            - Discovering best management practices in agricultural systems
+            - Water-Energy-Food-Ecosystem nexus assessment
+            - Application of remote sensing in water, soil, and crop sciences
+            - Climate change impacts assessment (based on CMIP6 datasets)
+            - hydrological and agricultural simulation and optimization
+            - Evapotranspiration and irrigation water demand prediction
       - role: Farm Management Consultant (Part-Time) 
         time: Jan.2008 – Dec. 2012
-        company: Drought Research Center, Shiraz University, Shiraz, Iran
+        company: Shahed Agricultural Store, Shiraz, Iran
         details: |
           
             - Irrigation system design, Irrigation scheduling 
             - Water, seed, fertilizer, and pesticide management
+            - Agricultural Consultant
 
 publications:
     title: Publications
@@ -124,14 +132,14 @@ publications:
         authors: Davarpanah, R., & Ahmadi, S. H. (2021)
         conference: Journal of Hydrology, 598, 126269. (https://doi.org/10.1016/j.jhydrol.2021.126269)
 
-      - title: Evaluation of total dissolved solids in rivers by improved neuro fuzzy approaches using metaheuristic algorithms (Accepted for publishing at the Earth Science Informatics journal)
+      - title: Evaluation of total dissolved solids in rivers by improved neuro fuzzy approaches using metaheuristic algorithms.
         link: "https://www.researchsquare.com/article/rs-3423568/v1"
-        authors: Jannatkhah, M., Davarpanah, R., Fakouri, B., Kisi, O. (2023)
-        conference: 
+        authors: Jannatkhah, M., Davarpanah, R., Fakouri, B., Kisi, O. (2024)
+        conference: Earth Science Informatics. (https://doi.org/10.1007/s12145-024-01220-x)
 
       - title: Applying Water-Food-Energy Nexus in a multi-stakeholder basin with an ascending demand under climate change (In Preparation).
         link: "#"
-        authors: Davarpanah, R., Ahmadi, S. H. (2023)
+        authors: Davarpanah, R., Ahmadi, S. H. (2024)
         conference: 
         
 certifications:
