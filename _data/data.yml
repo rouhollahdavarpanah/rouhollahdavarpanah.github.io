@@ -91,7 +91,7 @@ experiences:
         details: |
           
             - Water supply and demand management
-            - Sustainalility action plan
+            - Sustainability action plan
             - Stakeholders' conflict resolution
       - role: Hydrologist, GIS specialist, Water and Soil Analyst (Part-Time)
         time: Sep. 2022 – Now
@@ -260,10 +260,6 @@ projects:
         link: "#"
         tagline: "Rainfall-runoff simulation of the Karkheh River Basin using Artificial Neural Networks."
 
-      - title: Hydrology
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
       - title: Climatology
         link: "#"
         tagline: "Comparing the capability of Lars-WG and cmhyd model for future climate data projection."
@@ -315,7 +311,11 @@ oss:
         
       - title: Executive Management Honor
         link: "#"
-        tagline: "•	The winner of the election (of the board of directors) of the Kimia Garden Town, Iran. (2022)"
+        tagline: "The winner of the election (of the board of directors) of the Kimia Garden Town, Iran. (2022)"
+
+      - title: Academic Award
+        link: "#"
+        tagline: "Best research proposal of the “Water engineering and environment” autumn school (fully-funded opportunity offered by Iran Ministry of Energy). (2023)"
 
 skills:
     title: Skills &amp; Proficiency
@@ -326,7 +326,10 @@ skills:
 
       - name: R
         level: 60%
-
+        
+      - name: Matlab
+        level: 60%
+        
       - name: Google Earth Engine
         level: 50%
 
@@ -343,7 +346,7 @@ skills:
         level: 80%
         
       - name: ArcGIS
-        level: 70%
+        level: 80%
         
       - name: SWMM
         level: 80%
