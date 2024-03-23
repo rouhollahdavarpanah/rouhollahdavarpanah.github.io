@@ -36,7 +36,7 @@ sidebar:
         - idiom: Persian
           level: Native
 
-        - idiom: English
+        - idiom: English (IELTS 6.5)
           level: Professional
 
     interests:
@@ -322,43 +322,41 @@ skills:
 
     toolset:
       - name: Python
-        level: 70%
+        level: 60%
 
       - name: R
-        level: 60%
+        level: 50%
         
       - name: Matlab
-        level: 60%
+        level: 50%
         
       - name: Google Earth Engine
         level: 50%
 
       - name: SWAT
-        level: 100%
+        level: 70%
 
       - name: WEAP
-        level: 100%
+        level: 80%
 
       - name: HecRas
-        level: 80%
+        level: 60%
         
       - name: HecHms
-        level: 80%
+        level: 60%
         
       - name: ArcGIS
-        level: 80%
+        level: 60%
         
       - name: SWMM
-        level: 80%
-
-      - name: Aquacrop
-        level: 100%
-
-      - name: MODFLOW
         level: 60%
 
-      - name: English Language
+      - name: Aquacrop
         level: 80%
+
+      - name: MODFLOW
+        level: 40%
+
 
 footer: >
     Provided with <i class="fas fa-heart"></i> by Rouhollah Davarpanah
