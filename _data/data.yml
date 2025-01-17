@@ -14,13 +14,13 @@ sidebar:
 
     # Sidebar links
     email: davarpanah.rouhollah@gmail.com; rouhollah.davarpanah@modares.ac.ir
-    phone: +989179136613; +987137345680
-    timezone: IRST Timezone (GMT+3:30)
-    citizenship: Iranian
+    phone: +989179136613; +48791090382
+    timezone: Warsaw (GMT+1)
+    citizenship: Poland
     website: rouhollahdavarpanah.github.io #do not add http://
     linkedin: rouhollah-davarpanah
     xing: 
-    github:
+    github: https://github.com/rouhollahdavarpanah
     telegram: Sorush_Davar # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -57,12 +57,9 @@ sidebar:
 profile:
     title: Profile
     summary: |
-         Throughout my undergraduate studies, I successfully completed foundational coursework in agriculture, environmental science, and water engineering.
-         Fueled by a profound interest in my discipline, I resolved to pursue advanced studies at the Master's level. Remarkably, I achieved the 9th rank in the highly competitive M.Sc. entrance exam of Iran, securing a full scholarship for advanced studies at Tarbiat Modares University.
-         I defended my thesis with distinction, and subsequently, I have remained steadfastly committed to sustained research pursuits in the realms of water resources engineering and environmental science. 
-         My scholarly contributions materialized in the publication of two peer-reviewed articles, prominently featured in esteemed journals such as the Journal of Hydrology.
-         My professional trajectory has been enriched through hands-on experiences in hydrology, Geographic Information Systems (GIS), flood management, and drought mitigation. These experiences have not only honed my technical acumen but have also deepened my fervor for engaging in applied research in these pivotal domains. 
-         In a broader sense, my academic aspirations revolve around delving into the interconnections among water, food, energy, and ecosystems. I am driven to leverage my analytical prowess to proactively address challenges pertaining to water, food, and energy, with the overarching goal of positively influencing the sustainability and resilience of human-environment complex systems.
+         During my undergraduate studies, I built a solid foundation in agricultural and environmental engineering as well as water resources engineering and management. After ranking 9th in the highly competitive M.Sc. entrance exam in Iran, I was granted eligibility for a Master’s degree and secured a full scholarship to study at Tarbiat Modares University. I completed my Master’s thesis with distinction, focusing on agricultural water management.
+         My professional journey includes extensive experience in hydrological modeling, geospatial analysis, hydroinformatics, the water-energy-food-ecosystem nexus, and climate change impact assessment. These areas have sharpened my technical skills and deepened my passion for applied research, particularly in understanding the human-environment complex systems.
+         Currently, as a PhD student at the Warsaw University of Life Sciences (SGGW), I am focused on developing the SWAT+ model to address uncertainties in hydrological modeling.
 
 education:
     title: Education
